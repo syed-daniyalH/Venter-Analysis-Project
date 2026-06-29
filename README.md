@@ -80,6 +80,4 @@ Stable data-processing project with a clear improvement path from notebook explo
 
 ## Developer Credit
 
-Prepared by Nexol Tech Solutions.
-
 - GitHub: [syed-daniyalH](https://github.com/syed-daniyalH)
